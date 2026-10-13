@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+plotly>=5.20.0
+GitPython>=3.1.40
+radon>=6.0.1
+SQLAlchemy>=2.0.0
+PyMySQL>=1.1.0
+cryptography>=42.0.0
+python-dotenv>=1.0.0
